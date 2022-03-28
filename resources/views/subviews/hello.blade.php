@@ -5,12 +5,10 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Laravel 6</title>
+</head>
 <body>
-    <h1>Git Demo Page</h1>
-
-    <script src="app.js"></script>
-
+    <h1>Laravel 6</h1>
+    <h4> {{ $coolString }}</h4>
 </body>
 </html>
